@@ -1,14 +1,22 @@
 # Linux-Scripts
 
 ## Ubuntu System-Security-Check GUI Python:
+
 ### 💡 Features in the Script:
 ✅ PyQt GUI Interface for a clean, user-friendly experience
+
 ✅ Real-time system monitoring (CPU, memory, disk usage)
+
 ✅ Security best practices checker (Firewall, SSH, malware scan)
+
 ✅ Automated fixes (let the user decide which ones to apply)
+
 ✅ Scheduled system checks (via cron)
+
 ✅ Remote system scanning (manage multiple Ubuntu machines)
+
 ✅ Exportable reports (HTML/PDF for tracking)
+
 
 ### 🔥 Step 1: Install Dependencies
 Before running the script, install PyQt and other dependencies:
