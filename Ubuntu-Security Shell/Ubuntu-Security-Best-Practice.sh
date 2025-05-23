@@ -26,7 +26,7 @@ check_system() {
     fi
 
     # Malware scan
-    sudo chkrootkit | grep -i "INFECTED" && issues_found+=("⚠️ Potential rootkit detected!")
+    sudo chkrootkit | grep "INFECTED" && issues_found+=("⚠️ Potential rootkit detected!")
 
     # Outdated packages
     outdated=$(apt list --upgradable 2>/dev/null | tail -n +2 | wc -l)
