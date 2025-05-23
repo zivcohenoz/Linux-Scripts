@@ -45,8 +45,10 @@ sudo apt update
 sudo apt install -y qt5-default qtwayland5 libxcb-xinerama0 libxkbcommon-x11-0
 ```
 
- Alternative Fixes
+#### Alternative Fixes:
+
 If the issue persists, try these:
+
 1️⃣ Force Qt to use the XCB plugin by running:
 ```bash
 export QT_QPA_PLATFORM=xcb
@@ -67,4 +69,4 @@ export QT_QPA_PLATFORM=offscreen
 python3 system_check.py
 ```
 
-
+© Ziv Cohen-Oz

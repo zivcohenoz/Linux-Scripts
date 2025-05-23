@@ -5,3 +5,8 @@ https://github.com/zivcohenoz/Linux-Scripts/tree/main/Ubuntu-Security%20Shell#ub
 
 ## [Ubuntu System-Security-Check GUI Python](#ubuntu-system-security-check-gui-python)
 https://github.com/zivcohenoz/Linux-Scripts/tree/main/System-Check%20GUI%20Python#ubuntu-system-security-check-gui-python
+
+
+
+
+© Ziv Cohen-Oz

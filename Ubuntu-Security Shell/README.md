@@ -58,3 +58,7 @@ chmod +x Ubuntu-Security-Best-Practice.sh
 # send_report
 # schedule_check
 ```
+
+
+
+© Ziv Cohen-Oz
